@@ -1,6 +1,6 @@
 image:
   repository: medhedijemaa/rancher-demo
-  pillPolicy: IfNotPresent
+  pullPolicy: IfNotPresent
   tag: "latest"
 
 service:
